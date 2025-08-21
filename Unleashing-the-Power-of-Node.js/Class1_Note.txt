@@ -1,0 +1,2 @@
+1. node is single thread
+2. node.js is non-blocking system
