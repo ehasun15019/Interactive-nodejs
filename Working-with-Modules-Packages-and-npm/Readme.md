@@ -11,5 +11,8 @@
         module.exports = {
             getArea: getArea,
         };
-        
+
         console.log(module.exports);
+
+3. Module ka "export" korar pore onno file/module a use korte caile *****  require("./")  ***** avbae korte hoi 
+
