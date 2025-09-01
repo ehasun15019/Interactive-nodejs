@@ -18,7 +18,9 @@
 
 
 4. Module has 3 type 
-   a. build-in-modules
-   b. local modules
-   c. Third Party Modules
+
+   Example: 
+        a. build-in-modules
+        b. local modules
+        c. Third Party Modules
 
