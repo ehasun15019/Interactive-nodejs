@@ -16,3 +16,9 @@
 
 3. Module ka "export" korar pore onno file/module a use korte caile *****  require("./")  ***** avbae korte hoi 
 
+
+4. Module has 3 type 
+   a. build-in-modules
+   b. local modules
+   c. Third Party Modules
+

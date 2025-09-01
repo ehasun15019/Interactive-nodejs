@@ -6,4 +6,4 @@ module.exports = {
   getArea: getArea,
 };
 
-console.log(module.exports);
+console.log("area", module.exports);
